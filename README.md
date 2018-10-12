@@ -63,6 +63,7 @@ Craft Commerce 2 Documentation
 
 ## Developers
 
+- [Events](en/events.md)
 - [Extendability](en/extendability.md)
 - [Purchasables](en/purchasables.md)
 - [Adjusters](en/adjusters.md)
