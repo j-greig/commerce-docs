@@ -59,7 +59,10 @@ Craft Commerce 2 Documentation
   - [State Model](en/state-model.md)
 - [Customer Model](en/customer-model.md)
 - [Payment Form Models](en/payment-form-models.md)
-- [Subscription Models](en/subscription-models.md)
+- [Subscription Model](en/subscription-model.md)
+  - [Subscription Plan Model](en/plan-model.md)
+  - [Subscription Payment Model](en/subscription-payment-model.md)
+  - [Subscription Form Models](en/subscription-form-models.md)
 
 ## Developers
 
