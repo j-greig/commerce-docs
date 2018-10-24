@@ -9,8 +9,8 @@ Craft Commerce 2 Documentation
 
 - [Server Requirements](en/server-requirements.md)
 - [Installation](en/installation.md)
+- [Example Templates](en/installation.md#example-templates)
 - [Changes in Commerce 2](en/changes-in-commerce-2.md)
-- [Example Templates](en/server-requirements.md#example-templates)
 
 ## Configuration
 
