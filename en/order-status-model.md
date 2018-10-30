@@ -25,3 +25,10 @@ The name of the color of the order status
 ### default
 
 Returns `true` or `false` depending on if this status is the default applied to new orders.
+
+----
+
+## Templating
+
+### Get the current order status in Twig
+`{{ order.orderStatus }}`
